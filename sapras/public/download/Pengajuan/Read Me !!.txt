@@ -1,0 +1,4 @@
+Syarat & Ketentuan Import Data Sarana :
+1.Mengikuti Format yang sudah ditentukan.
+2.Tidak Merubah Format yang telah ditentukan.
+3.Data yang diimport tidak melebihin 100 data.
